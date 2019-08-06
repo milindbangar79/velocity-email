@@ -1,0 +1,7 @@
+<html>
+<body>
+    <h3>${title}!</h3>
+    <p>${body}</p>
+    <p>Mail is ${approvedStatus}</p>
+</body>
+</html>
